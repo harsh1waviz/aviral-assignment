@@ -1,0 +1,38 @@
+1. pwd : show the present working directory.
+2. ls : lists the files in present directory.
+3. cd : move to a directory.
+4. mkdir : create a new dirctory.
+5.rm :  remove a file
+6. rmdir : remove a directory.
+7. touch : used to create a new file.
+8. man : to know about a command.
+9. cp : copy a file.
+10.mv : move a file.
+11. locate : locate a file.
+12. echo : print data.
+13. cat: used to display the contant of file.
+14. vi : it is an editor.
+15. sudo : this command helps to run the command as a super or root user. 
+17. chmod : gives permission to a file.
+18. df: used to display the available space in disk.
+19. du : display the disk usage.
+20. tar : compress the file in tar format.
+21. zip : compress file in zip format.
+22.unzip : extract the zip file.
+23. apt-get : used to install package. this require root privileges.
+24. hostname : shhow the host name.
+25. ping : to check connection to server.
+26. chown : change the owner and group owner of a file.
+27. diff : compare two text files and show the diff btw them.
+29. exit : exit the terminal.
+30. clear : clear the terminal.
+31. find : used to find any file.
+32. grep : used to search content in text file.
+33. head : display first 10 lines of a file.
+34. history : display the command list you exicute previously.
+35. kill : kill a process.
+36. less : display a file witout editor.
+37. passwd : change the password for a user.
+38. ps :lists the running processes.
+39. shutdown : shutdown the computer.
+40. tail : print last 10 lines of a file. 

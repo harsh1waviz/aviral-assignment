@@ -1,0 +1,80 @@
+Natural Language Processing :- NLP is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
+
+NLP Libraries:-
+
+
+
+1. Natural Language Toolkit (NLTK)
+	NLTK is one of the leading platforms for building Python programs that can work with human language data. It presents a practical introduction to programming for language processing. NLTK comes with a host of text processing libraries for sentence detection, tokenization, lemmatization, stemming, parsing, chunking, and POS tagging.
+
+Advantages:
+- It is the most widely used NLP library in Python.
+- Supports the largest number of languages.
+- Fast sentence tokenization.
+- Many third-party extensions.
+
+Disadvantages:
+-Quite slow
+
+
+
+2. spaCy
+	spaCy is an open-source NLP library in Python. It is designed explicitly for production usage – it lets you develop applications that process and understand huge volumes of text.  
+	spaCy can preprocess text for Deep Learning. It can be be used to build natural language understanding systems or information extraction systems. spaCy is equipped with pre-trained statistical models and word vectors. It can support tokenization for over 49 languages.
+
+Advantages:
+- Fastest NLP framework.
+-provide built-in word vectors.
+-more object oriented as compare to others.
+
+Disadvantages:
+- Lacks flexibility, comparing to NLTK.
+Tokenization is slower than in NLTK.
+
+
+
+3. Pattern
+	Pattern is a text processing, web mining, natural language processing, machine learning, and network analysis tool for Python. It comes with a host of tools for data mining (Google, Twitter, Wikipedia API, a web crawler, and an HTML DOM parser), NLP (part-of-speech taggers, n-gram search, sentiment analysis, WordNet), ML (vector space model, clustering, SVM), and network analysis by graph centrality and visualization. 
+	Pattern can be a powerful tool both for a scientific and a non-scientific audience. It has a simple and straightforward syntax.
+	
+Advantages:
+- There are web crawler, DOM parses, some APIs.
+
+Disadvantages:
+-CAn not be enough optimized for some NLP tasks.
+
+
+
+4. CoreNLP
+	Stanford CoreNLP comprises of an assortment of human language technology tools. It aims to make the application of linguistic analysis tools to a piece of text easy and efficient. With CoreNLP, you can extract all kinds of text properties (like named-entity recognition, part-of-speech tagging, etc.) in only a few lines of code.
+	
+Advantages:
+- It offers programing interfaces for many programming languages.
+
+Disadvantages:
+- Since it is written in Java, it demands that Java be installed on your device.
+
+
+
+5. TextBlob
+	TextBlob is a Python library designed for processing textual data. It focuses on providing access to common text-processing operations through familiar interfaces. TextBlob objects can be treated as Python strings that are trained in Natural Language Processing.
+	
+Advantages:
+- TextBlob can be interfaced with NLTK. 
+- It is similar to Python's string functions.
+- It allows to easily swap to a pre-trained implementation from the NLTK library for sentiment analysis.
+
+Disadvantages:
+- It is a little slower but faster than NLTK.
+- It does not provide features like dependency parsing, word vectors etc.
+
+
+
+6. PyNLPl
+	Pronounced as ‘pineapple,’ PyNLPl is a Python library for Natural Language Processing. It contains a collection of custom-made Python modules for Natural Language Processing tasks. One of the most notable features of PyNLPl is that it features an extensive library for working with FoLiA XML (Format for Linguistic Annotation).
+
+Advantages:
+- PyNLPl is segregated into different modules and packages, each useful for both standard and advanced NLP tasks.
+- It also has more complex data types and algorithms for advanced NLP tasks. 
+
+
